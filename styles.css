@@ -19,4 +19,11 @@
     background-color: black;
     padding: 30px;
     border-radius: 20px;
+    
+}
+.calculator form input{
+    border: 0;
+    padding: 25px;
+    margin: 3px;
+    border-radius: 20px;
 }
